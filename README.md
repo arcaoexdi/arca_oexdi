@@ -1,7 +1,7 @@
 <!-- PERFIL PROFESIONAL DE ARCA OEXDI -->
 
 <div align="center">
-  <img src="https://drive.google.com/drive/folders/1W34Ey4AihvkimOZVqVvkzgzgsW8fovO5" />
+  <img src="[https://drive.google.com/drive/folders/1W34Ey4AihvkimOZVqVvkzgzgsW8fovO5](https://drive.google.com/file/d/17pQOKuDG2MAutyz6ev0qBYZCRBrAxbsB/view?usp=drive_link)" />
 </div>
 
 ---
