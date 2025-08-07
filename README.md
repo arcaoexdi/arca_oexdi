@@ -1,66 +1,82 @@
-
-<!-- README.md for Arca Oexdi GitHub profile -->
-
-<h1 align="center" style="font-size: 3em; color: #4A00E0;">
-  🤖 Arca Oexdi
-</h1>
-
-<p align="center" style="font-size: 1.2em;">
-  🚀 Inteligencia Artificial, Automatización y Software Inteligente al servicio de la transformación digital.
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="280" alt="AI automation" />
-</p>
-
----
-
-<h2 align="center">📌 ¿Qué hacemos en Arca Oexdi?</h2>
+<!-- PERFIL PROFESIONAL DE ARCA OEXDI -->
 
 <div align="center">
-  <ul style="list-style: none; font-size: 1.1em; line-height: 1.6;">
-    <li>🧠 <strong>IA avanzada</strong></li>
-    <li>⚙️ <strong>Automatización de procesos</strong></li>
-    <li>🌐 <strong>Desarrollo Web y Software a medida</strong></li>
-    <li>📊 <strong>Sistemas inteligentes con visión por computadora</strong></li>
-  </ul>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=🚀+Bienvenido+a+Arca+Oexdi!;🤖+IA+%7C+Automatizaci%C3%B3n+%7C+Software+Inteligente" alt="Typing SVG" />
 </div>
 
 ---
 
-<h2 align="center">🚀 Tecnologías y Herramientas</h2>
+<h1 align="center">✨ Arca Oexdi ✨</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,tailwind,html,css,javascript,git,github,vscode" />
+  <b>Transformamos ideas en sistemas inteligentes. </b><br>
+  <i>Conectamos la inteligencia artificial con la visión humana.</i>
 </p>
 
 ---
 
-<h2 align="center">🔥 Síguenos y no te pierdas:</h2>
+## 🌐 ¿Quiénes somos?
+Somos una empresa apasionada por crear soluciones innovadoras que combinan:
+- 🧠 Inteligencia Artificial avanzada
+- ⚙️ Automatización de procesos empresariales
+- 💻 Desarrollo web y software a medida
+- 👁️ Visión por computadora en tiempo real
 
-<div align="center" style="font-size: 1.1em;">
-  ⚡ Proyectos innovadores <br/>
-  📂 Repos públicos con ejemplos y recursos <br/>
-  💻 Código real aplicado a empresas <br/>
-</div>
+> 🎯 *Nuestro objetivo: facilitar la vida de las personas y empresas con tecnología útil, escalable y accesible.*
 
-<br/>
+---
 
+## 🧰 Stack Tecnológico
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,tailwind,html,css,javascript,git,github" />
+</p>
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto                      | Descripción                                               | Tecnología                  |
+|------------------------------|-----------------------------------------------------------|-----------------------------|
+| 🌐 Página web oficial        | Web moderna y responsiva para Arca Oexdi                  | Next.js + Tailwind + FastAPI|
+| 🧠 Motor IA personalizado     | Integración de IA para automatizar procesos internos      | Python + FastAPI            |
+| 👁️ Visión por Computadora   | Reconocimiento de imágenes en tiempo real                 | OpenCV + Python             |
+
+---
+
+## 📣 Síguenos y aprende con nosotros
+
+- 📂 Repositorios públicos con ejemplos reales.
+- 🧠 Casos de estudio sobre IA y automatización.
+- ✨ Proyectos con propósito e impacto social.
+
+<div align="center">
   <a href="https://github.com/arcaoexdi">
-    <img src="https://img.shields.io/github/followers/arcaoexdi?label=Follow&style=social" alt="Follow Arca Oexdi"/>
+    <img src="https://img.shields.io/github/followers/arcaoexdi?label=Follow&style=social" alt="Follow Me on GitHub" />
   </a>
-</p>
+</div>
 
-<p align="center" style="font-size: 1.2em;">
-  👉👈 <strong>Haz clic en "Follow" y acompáñanos en esta revolución digital.</strong><br/>
-  🙌 ¡La tecnología con propósito comienza aquí!
-</p>
+> 👉 **Haz clic en “Follow” y acompáñanos en esta revolución digital.**
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVuNGhtM3phOHVlNmt6Y2E4ZTFqbDJ3OTZ6em1jY2E3MXRwZXR3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XAxylRMCdpbEWUAvr8/giphy.gif" width="320" />
-</p>
+## 🎨 Estilo visual con HTML y CSS (para tu web, no en GitHub)
+
+```html
+<!-- Ejemplo de animación para usar en tu página personal -->
+<div style="text-align:center; font-size:1.5em; animation: fadein 3s ease-in-out;">
+  <p>🚀 Arca Oexdi: Tecnología con propósito.</p>
+</div>
+
+<style>
+@keyframes fadein {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
+```
+
+> Puedes usar este tipo de animaciones en tu página web oficial para darle vida a la marca.
+
+---
+
+<h3 align="center">✨ ¡Gracias por visitar nuestro perfil! ✨</h3>
