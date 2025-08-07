@@ -3,71 +3,73 @@
 </p>
 
 <h1 align="center">🤖 Arca Oexdi</h1>
-<h3 align="center"><em>Inteligencia Artificial, Automatización y Software Inteligente al servicio de la transformación digital.</em></h3>
+<p align="center">
+  <em><strong>Automatizamos el presente. Construimos el futuro.</strong></em><br>
+  <em>IA | Automatización | Desarrollo Web Inteligente</em>
+</p>
 
 ---
 
-## 🌟 ¿Quiénes somos?
+## 🌟 Sobre nosotros
 
-**Arca Oexdi** es una marca apasionada por transformar procesos tradicionales en soluciones digitales con impacto real.
+**Arca Oexdi** es una marca pionera en crear soluciones que combinan:
 
-Ofrecemos:
-
-- 🧠 IA avanzada y aprendizaje profundo
-- ⚙️ Automatización de flujos y sistemas
-- 🌐 Desarrollo web moderno y APIs escalables
-- 👁️ Visión por computadora y análisis inteligente
-- 🧩 Integración de herramientas low-code como n8n y Make
+🔹 Inteligencia Artificial avanzada  
+🔹 Automatización de procesos empresariales  
+🔹 Desarrollo web escalable con backend robusto  
+🔹 Visión por computadora aplicada  
+🔹 Integraciones low-code para eficiencia total
 
 ---
 
-## 🧰 Tecnologías que dominamos
+## 🚀 Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Lenguajes & Frameworks
+### 👨‍💻 Lenguajes y Frameworks
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40px" title="Django"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40px" title="FastAPI"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" title="React (Next.js)"/>
-<img src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/screenshot_361.png?itok=w4CzcWyb" width="40px" title="TailwindCSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+<img src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/screenshot_361.png?itok=w4CzcWyb" width="40" title="TailwindCSS"/>
 
 ---
 
-### 🤖 IA, Automatización & DevOps
+### 🤖 IA, Automatización y DevOps
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" title="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" title="GitHub"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40px" title="PyTorch"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40px" title="Keras"/>
-<img src="https://avatars.githubusercontent.com/u/53104118?s=48&v=4" width="40px" title="Roboflow"/>
-<img src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" width="40px" title="n8n"/>
-<img src="https://ooptimeacademy.com/wp-content/uploads/2023/10/logo-make.png" width="40px" title="Make"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40" title="PyTorch"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" title="Keras"/>
+<img src="https://avatars.githubusercontent.com/u/53104118?s=48&v=4" width="40" title="Roboflow"/>
+<img src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" width="40" title="n8n"/>
+<img src="https://ooptimeacademy.com/wp-content/uploads/2023/10/logo-make.png" width="40" title="Make (Integromat)"/>
 
 </div>
 
 ---
 
-## 📂 Repositorios destacados
+## 📂 Proyectos Destacados
 
-| Proyecto               | Descripción                                                       |
-|------------------------|-------------------------------------------------------------------|
-| 🌐 Página Web Arca     | Sitio oficial construido con Next.js + Tailwind + FastAPI         |
-| 🤖 Arca AI Agent       | Agente de automatización basado en IA + flujos n8n                |
-| 👁️ Visión Inteligente  | Módulo de detección visual con PyTorch + Keras + Roboflow         |
+| 🚀 Proyecto             | 💡 Descripción                                                      |
+|------------------------|---------------------------------------------------------------------|
+| 🌐 **Web Arca Oexdi**   | Sitio institucional con Next.js + Tailwind + FastAPI               |
+| 🤖 **Arca AI Agent**    | Agente autónomo de automatización usando Python + n8n              |
+| 👁️ **Visión Oexdi**     | Detección visual con PyTorch + Keras + Roboflow                    |
 
 ---
 
-## 🔥 ¿Por qué seguirnos?
+## 🙌 ¿Por qué seguirnos?
 
-- ✅ Código limpio, funcional y real
-- ⚡ Proyectos en producción con impacto
-- 📚 Casos de uso útiles para empresas reales
-- 🔗 Integraciones visuales con low-code y APIs
+- Código real y funcional
+- Proyectos productivos y en crecimiento
+- Automatización que cambia vidas
+- Herramientas low-code y open source
+- Desarrollo de software con propósito
 
 ---
 
@@ -76,7 +78,7 @@ Ofrecemos:
     <img src="https://img.shields.io/github/followers/arcaoexdi?label=Follow&style=social" />
   </a>
   <br><br>
-  👉👈 <b>Haz clic en "Follow" y únete a esta revolución tecnológica.</b>
+  👉👈 <strong>¡Haz clic en "Follow" y únete a la revolución digital con propósito!</strong>
 </p>
 
 ---
@@ -90,13 +92,24 @@ Ofrecemos:
 
 ---
 
-> 💬 _"El futuro pertenece a quienes automatizan el presente."_  
+## 📫 Contacto
+
+> ¿Quieres colaborar, automatizar tu negocio o hacer algo increíble con IA?
+
+📧 **Email:** arca.oexdi@gmail.com  
+🌐 **Web (próximamente):** www.arcaoexdi.com
+
+---
+
+## 🧠 Frase que nos inspira
+
+> _"El futuro pertenece a quienes automatizan el presente."_  
 > — **Arca Oexdi**
 
 ---
 
-🎁 **¿Quieres uno como este?**  
-👉 Usa [Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+## 🛠️ Bonus
+
+🎁 Genera tu propio README con [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 ---
-
