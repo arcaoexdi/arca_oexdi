@@ -1,68 +1,82 @@
-<!-- Banner principal -->
-<p align="center">
-  <img src="./01.%20ESLOGAN.jepg" alt="Arca Oexdi Banner" style="width:100%; border-radius: 10px;">
-</p>
-
-<h1 align="center">🤖 Arca Oexdi</h1>
-<h3 align="center">🚀 Inteligencia Artificial, Automatización y Software Inteligente al servicio de la transformación digital</h3>
-
----
-
-## 📌 ¿Qué hacemos en Arca Oexdi?
-
-Creamos soluciones que combinan lo mejor del desarrollo web, la inteligencia artificial y la automatización inteligente. Nuestra misión es **democratizar la tecnología**.
-
-🧠 Inteligencia Artificial  
-⚙️ Automatización con n8n y bots inteligentes  
-👁️ Visión por Computadora con Roboflow + OpenCV  
-🌐 Páginas web con Next.js, HTML, CSS, JS  
-🐍 Backend robusto con Django + FastAPI  
-📦 Contenedores Docker + GitHub Actions  
-🧪 Deep Learning con PyTorch y Keras  
-🔗 Integraciones API + Make.com
-
----
-
-## 🛠️ Tecnologías que dominamos
+<!-- PERFIL PROFESIONAL DE ARCA OEXDI -->
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,javascript,docker,github,opencv,tensorflow,pytorch" />
+  <img src="https://drive.google.com/drive/folders/1W34Ey4AihvkimOZVqVvkzgzgsW8fovO5" />
 </div>
 
 ---
 
-## 🎯 Objetivo de la marca
-
-💡 Transformar procesos tradicionales en sistemas inteligentes  
-🧩 Integrar herramientas IA de forma simple y útil  
-🎨 Desarrollar software funcional y visualmente profesional  
-🌎 Democratizar la tecnología para todos
-
----
-
-## 💬 ¡Conecta con Arca Oexdi!
-
-<div align="center">
-  
-[![Follow me](https://img.shields.io/github/followers/arcaoexdi?label=Follow&style=social)](https://github.com/arcaoexdi)
-  
-👉👈 Haz clic en "Follow" arriba y acompáñanos en esta revolución digital.  
-🙌 ¡La tecnología con propósito comienza aquí!
-
-</div>
-
----
-
-## ✨ Animaciones y estilo profesional
-
-Usamos tecnologías como **Framer Motion**, **TailwindCSS** y componentes reactivos para crear experiencias fluidas.  
-Esto se refleja en nuestros productos, como puedes ver en nuestros repos.
-
----
-
-## 📈 Estadísticas (¡porque el código también se mide!)
+<h1 align="center">✨ Arca Oexdi ✨</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arcaoexdi&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcaoexdi&layout=compact&theme=radical" height="150"/>
+  <b>Transformamos ideas en sistemas inteligentes. </b><br>
+  <i>Conectamos la inteligencia artificial con la visión humana.</i>
 </p>
+
+---
+
+## 🌐 ¿Quiénes somos?
+Somos una empresa apasionada por crear soluciones innovadoras que combinan:
+- 🧠 Inteligencia Artificial avanzada
+- ⚙️ Automatización de procesos empresariales
+- 💻 Desarrollo web y software a medida
+- 👁️ Visión por computadora en tiempo real
+
+> 🎯 *Nuestro objetivo: facilitar la vida de las personas y empresas con tecnología útil, escalable y accesible.*
+
+---
+
+## 🧰 Stack Tecnológico
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,tailwind,html,css,javascript,git,github" />
+</p>
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto                      | Descripción                                               | Tecnología                  |
+|------------------------------|-----------------------------------------------------------|-----------------------------|
+| 🌐 Página web oficial        | Web moderna y responsiva para Arca Oexdi                  | Next.js + Tailwind + FastAPI|
+| 🧠 Motor IA personalizado     | Integración de IA para automatizar procesos internos      | Python + FastAPI            |
+| 👁️ Visión por Computadora   | Reconocimiento de imágenes en tiempo real                 | OpenCV + Python             |
+
+---
+
+## 📣 Síguenos y aprende con nosotros
+
+- 📂 Repositorios públicos con ejemplos reales.
+- 🧠 Casos de estudio sobre IA y automatización.
+- ✨ Proyectos con propósito e impacto social.
+
+<div align="center">
+  <a href="https://github.com/arcaoexdi">
+    <img src="https://img.shields.io/github/followers/arcaoexdi?label=Follow&style=social" alt="Follow Me on GitHub" />
+  </a>
+</div>
+
+> 👉 **Haz clic en “Follow” y acompáñanos en esta revolución digital.**
+
+---
+
+## 🎨 Estilo visual con HTML y CSS (para tu web, no en GitHub)
+
+```html
+<!-- Ejemplo de animación para usar en tu página personal -->
+<div style="text-align:center; font-size:1.5em; animation: fadein 3s ease-in-out;">
+  <p>🚀 Arca Oexdi: Tecnología con propósito.</p>
+</div>
+
+<style>
+@keyframes fadein {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
+```
+
+> Puedes usar este tipo de animaciones en tu página web oficial para darle vida a la marca.
+
+---
+
+<h3 align="center">✨ ¡Gracias por visitar nuestro perfil! ✨</h3>
