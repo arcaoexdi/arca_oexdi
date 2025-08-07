@@ -7,6 +7,7 @@
 
 **Arca Oexdi** impulsa la transformación digital con soluciones que combinan:
 
+
 - 🧠 Inteligencia Artificial y Aprendizaje Profundo
 - ⚙️ Automatización de flujos empresariales
 - 🌐 Desarrollo Web moderno y escalable
@@ -34,7 +35,7 @@
 
 ### 🤖 IA, Automatización & DevOps
 
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg](https://www.google.com/search?q=n8n&sca_esv=84a972cf9bb6250a&hl=es-419&sxsrf=AE3TifNnvNr6ZYvTOq4RwL_1xEEBZdvZnA:1754585424165&source=hp&biw=1280&bih=598&ei=UNmUaLGiCM6FwbkPmortyAI&iflsig=AOw8s4IAAAAAaJTnYBPz5nUzUzUxyFw5XuAM7JALMjvG&ved=0ahUKEwixiryHlPmOAxXOQjABHRpFGykQ4dUDCBc&uact=5&oq=n8n&gs_lp=EgNpbWciA244bkiHCVDJBFj8BnAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGKAgtnd3Mtd2l6LWltZ5gCAKACAKgCAJgDAJIHAKAHALIHALgHAMIHAMgHAA&sclient=img&udm=2#vhid=5X6BzNof15JoPM&vssid=mosaic)" width="40px" title="Docker"/>
+<img src="https://github.com/user-attachments/assets/0b941a72-af10-4dd0-a225-b2d0a711d858" width="40px" title="GitHub""/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" title="GitHub"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40px" title="PyTorch"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40px" title="Keras"/>
