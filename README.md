@@ -45,7 +45,7 @@ Ofrecemos:
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40px" title="PyTorch"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40px" title="Keras"/>
 <img src="https://user-images.githubusercontent.com/84704638/236647592-2ec53c4f-6933-45a6-a504-71e305d2b1b4.png" width="40px" title="Roboflow"/>
-<img src="https://n8n.io/images/logo.svg](https://www.google.com/search?sca_esv=84a972cf9bb6250a&sxsrf=AE3TifPN1-_cfZzehxsPLYgZDKhdVRgChQ:1754586083678&udm=2&fbs=AIIjpHx4nJjfGojPVHhEACUHPiMQht6_BFq6vBIoFFRK7qchKG1cRgcE0P7z3SNizmlu0QnAo31FcWSm9PsQnW8mPH21BwyyvooJOPmu9LTn8mR6PIOJzAXroCq8YBrQpcoigygxKF-AOWBkR-HV9e5Ug3MmSgbgWiW-sI9r50xGw_jGAsKM0hq6wMwqszFnICZbHFHPzOngnK5FyQdwqeq-cMd1sBQXlQ&q=imagenes+de+n8n&sa=X&ved=2ahUKEwjqk_vBlvmOAxWnSDABHd-7KnoQtKgLegQIEhAB&biw=1280&bih=598&dpr=1.5#vhid=N-hG7A7FTpcwVM&vssid=mosaic)" width="80px" title="n8n"/>
+<img src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" title="n8n"/>
 <img src="https://github.com/arcaoexdi/assets/blob/main/make-icon.png?raw=true" width="40px" title="Make (Integromat)"/>
 
 </div>
