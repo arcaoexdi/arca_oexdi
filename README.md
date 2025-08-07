@@ -46,7 +46,7 @@ Ofrecemos:
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40px" title="Keras"/>
 <img src="https://avatars.githubusercontent.com/u/53104118?s=48&v=4" width="40px" title="Roboflow"/>
 <img src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" width="40px" title="n8n"/>
-<img src="[https://github.com/arcaoexdi/assets/blob/main/make-icon.png?raw=true](https://images.ctfassets.net/un655fb9wln6/1k5wBPhbu5kXiaYlFWgEJE/b590772959bd510e64cf230ef37bba3e/Make-Logo-RGB.svg)" width="40px" title="Make"/>
+<img src="https://ooptimeacademy.com/wp-content/uploads/2023/10/logo-make.png" width="40px" title="Make"/>
 
 </div>
 
