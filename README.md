@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://co.pinterest.com/pin/4222193395350403/"/>
-</p>
-
 <h1 align="center">🤖 Arca Oexdi</h1>
 <p align="center"><b>IA, Automatización y Software Inteligente al servicio de la transformación digital</b></p>
 
@@ -38,7 +34,7 @@
 
 ### 🤖 IA, Automatización & DevOps
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" title="Docker"/>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg](https://www.google.com/search?q=n8n&sca_esv=84a972cf9bb6250a&hl=es-419&sxsrf=AE3TifNnvNr6ZYvTOq4RwL_1xEEBZdvZnA:1754585424165&source=hp&biw=1280&bih=598&ei=UNmUaLGiCM6FwbkPmortyAI&iflsig=AOw8s4IAAAAAaJTnYBPz5nUzUzUxyFw5XuAM7JALMjvG&ved=0ahUKEwixiryHlPmOAxXOQjABHRpFGykQ4dUDCBc&uact=5&oq=n8n&gs_lp=EgNpbWciA244bkiHCVDJBFj8BnAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGKAgtnd3Mtd2l6LWltZ5gCAKACAKgCAJgDAJIHAKAHALIHALgHAMIHAMgHAA&sclient=img&udm=2#vhid=5X6BzNof15JoPM&vssid=mosaic)" width="40px" title="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" title="GitHub"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40px" title="PyTorch"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40px" title="Keras"/>
