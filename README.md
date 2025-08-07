@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/34/8e/2c/348e2c524ecaafa6f235e7256bc80a3e.jpg" width="100%" alt="Banner Arca Oexdi"/>
+  <img src="https://i.pinimg.com/736x/34/8e/2c/348e2c524ecaafa6f235e7256bc80a3e.jpg" style="width:100%; max-height:200px; object-fit:cover;" alt="Banner Arca Oexdi"/>
 </p>
 
 <h1 align="center">🤖 Arca Oexdi</h1>
@@ -65,11 +65,11 @@
 
 ## 🙌 ¿Por qué seguirnos?
 
-- Código real y funcional
-- Proyectos productivos y en crecimiento
-- Automatización que cambia vidas
-- Herramientas low-code y open source
-- Desarrollo de software con propósito
+- ✅ Código real y funcional  
+- ⚡ Proyectos productivos y en crecimiento  
+- 🤖 Automatización que cambia vidas  
+- 🔗 Herramientas low-code y Open Source  
+- 🧠 Desarrollo de software con propósito
 
 ---
 
