@@ -1,82 +1,95 @@
-<!-- PERFIL PROFESIONAL DE ARCA OEXDI -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arcaoexdi/arcaoexdi/main/01.%20ESLOGAN.jepg" alt="Arca Oexdi Banner" width="100%" />
+</p>
+
+<h1 align="center">🤖 Arca Oexdi</h1>
+
+<h3 align="center">🚀 IA, Automatización y Software Inteligente para una transformación digital con propósito</h3>
+
+---
+
+## 📌 ¿Qué hacemos en Arca Oexdi?
+
+Creamos soluciones tecnológicas que combinan:
+
+- 🧠 **Inteligencia Artificial aplicada a procesos reales**
+- ⚙️ **Automatización empresarial y flujos sin fricción**
+- 🌐 **Desarrollo web y software inteligente a medida**
+- 👁️‍🗨️ **Visión por computadora en tiempo real**
+- 🧩 **Integración de tecnologías como n8n, Roboflow, PyTorch, Keras, Docker**
+
+---
+
+## 🛠️ Stack Tecnológico
 
 <div align="center">
-  <img src="[https://drive.google.com/drive/folders/1W34Ey4AihvkimOZVqVvkzgzgsW8fovO5](https://drive.google.com/file/d/17pQOKuDG2MAutyz6ev0qBYZCRBrAxbsB/view?usp=drive_link)" />
+  
+### 🧠 Backend / Automatización / IA
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40px" title="Django"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40px" title="FastAPI"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40px" title="Docker"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40px" title="GitHub"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40px" title="Jupyter"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40px" title="PyTorch"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40px" title="Keras"/>
+<img src="https://raw.githubusercontent.com/n8n-io/n8n/develop/assets/images/n8n-logo.png" width="40px" title="n8n"/>
+<img src="https://www.vectorlogo.zone/logos/make_com/make_com-icon.svg" width="40px" title="Make"/>
+
+---
+
+### 💻 Frontend
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40px" title="TailwindCSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" title="React / Next.js"/>
 </div>
 
 ---
 
-<h1 align="center">✨ Arca Oexdi ✨</h1>
+## 🌟 Nuestros principios
+
+- 🧬 Tecnología con propósito humano
+- 💡 Innovación que transforma
+- 📈 Automatización que libera tiempo
+- 🤝 Desarrollo colaborativo y transparente
+
+---
+
+## 📂 Repos públicos destacados próximamente
+
+| Proyecto | Descripción |
+|---------|-------------|
+| **Pagina Web Arca** | Sitio web oficial con Next.js + FastAPI |
+| **Arca AI Bot** | Asistente IA para tareas automatizadas |
+| **VisionOexdi** | Sistema con visión por computadora |
+
+---
+
+## 🙌 ¡Sigue nuestro trabajo!
 
 <p align="center">
-  <b>Transformamos ideas en sistemas inteligentes. </b><br>
-  <i>Conectamos la inteligencia artificial con la visión humana.</i>
-</p>
-
----
-
-## 🌐 ¿Quiénes somos?
-Somos una empresa apasionada por crear soluciones innovadoras que combinan:
-- 🧠 Inteligencia Artificial avanzada
-- ⚙️ Automatización de procesos empresariales
-- 💻 Desarrollo web y software a medida
-- 👁️ Visión por computadora en tiempo real
-
-> 🎯 *Nuestro objetivo: facilitar la vida de las personas y empresas con tecnología útil, escalable y accesible.*
-
----
-
-## 🧰 Stack Tecnológico
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,tailwind,html,css,javascript,git,github" />
-</p>
-
----
-
-## 🚀 Proyectos destacados
-
-| Proyecto                      | Descripción                                               | Tecnología                  |
-|------------------------------|-----------------------------------------------------------|-----------------------------|
-| 🌐 Página web oficial        | Web moderna y responsiva para Arca Oexdi                  | Next.js + Tailwind + FastAPI|
-| 🧠 Motor IA personalizado     | Integración de IA para automatizar procesos internos      | Python + FastAPI            |
-| 👁️ Visión por Computadora   | Reconocimiento de imágenes en tiempo real                 | OpenCV + Python             |
-
----
-
-## 📣 Síguenos y aprende con nosotros
-
-- 📂 Repositorios públicos con ejemplos reales.
-- 🧠 Casos de estudio sobre IA y automatización.
-- ✨ Proyectos con propósito e impacto social.
-
-<div align="center">
   <a href="https://github.com/arcaoexdi">
-    <img src="https://img.shields.io/github/followers/arcaoexdi?label=Follow&style=social" alt="Follow Me on GitHub" />
+    <img src="https://img.shields.io/github/followers/arcaoexdi?label=Follow&style=social" />
   </a>
-</div>
-
-> 👉 **Haz clic en “Follow” y acompáñanos en esta revolución digital.**
-
----
-
-## 🎨 Estilo visual con HTML y CSS (para tu web, no en GitHub)
-
-```html
-<!-- Ejemplo de animación para usar en tu página personal -->
-<div style="text-align:center; font-size:1.5em; animation: fadein 3s ease-in-out;">
-  <p>🚀 Arca Oexdi: Tecnología con propósito.</p>
-</div>
-
-<style>
-@keyframes fadein {
-  from { opacity: 0; transform: translateY(-10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-</style>
-```
-
-> Puedes usar este tipo de animaciones en tu página web oficial para darle vida a la marca.
+  <br>
+  👉👈 **Haz clic en "Follow" y acompáñanos en esta revolución digital.**
+</p>
 
 ---
 
-<h3 align="center">✨ ¡Gracias por visitar nuestro perfil! ✨</h3>
+## 📈 Stats de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arcaoexdi&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcaoexdi&layout=compact&theme=tokyonight" height="165">
+</p>
+
+---
+
+> ✨ _"El futuro pertenece a quienes automatizan el presente."_  
+> — **Arca Oexdi**
+
