@@ -44,8 +44,8 @@ Ofrecemos:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" title="GitHub"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40px" title="PyTorch"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40px" title="Keras"/>
-<img src="https://user-images.githubusercontent.com/84704638/236647592-2ec53c4f-6933-45a6-a504-71e305d2b1b4.png" width="40px" title="Roboflow"/>
-<img src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" title="n8n"/>
+<img src="[https://user-images.githubusercontent.com/84704638/236647592-2ec53c4f-6933-45a6-a504-71e305d2b1b4.png](https://avatars.githubusercontent.com/u/53104118?s=48&v=4)" width="40px" title="Roboflow"/>
+<img src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" width="40px" title="n8n"/>
 <img src="https://github.com/arcaoexdi/assets/blob/main/make-icon.png?raw=true" width="40px" title="Make (Integromat)"/>
 
 </div>
