@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://co.pinterest.com/81c28d9f-b427-4114-a860-1750803359e6" width="100%" alt="Banner Arca Oexdi"/>
+  <img src="https://i.pinimg.com/736x/34/8e/2c/348e2c524ecaafa6f235e7256bc80a3e.jpg" width="100%" alt="Banner Arca Oexdi"/>
 </p>
 
 <h1 align="center">🤖 Arca Oexdi</h1>
