@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arcaoexdi/arcaoexdi/main/01.%20ESLOGAN.jepg" width="100%" alt="Banner Arca Oexdi"/>
+  <img src="blob:https://co.pinterest.com/81c28d9f-b427-4114-a860-1750803359e6" width="100%" alt="Banner Arca Oexdi"/>
 </p>
 
 <h1 align="center">🤖 Arca Oexdi</h1>
