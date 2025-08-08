@@ -83,7 +83,9 @@
 > ¿Quieres colaborar, automatizar tu negocio o hacer algo increíble con IA?
 
 📧 **Email:** arca.oexdi@gmail.com  
+
 📷 **Instagram:** arca_oexdi
+
 📲 **Cel:** +57 3133950857
 ---
 
