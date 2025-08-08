@@ -15,10 +15,11 @@
 **Arca Oexdi** es una marca pionera en crear soluciones que combinan:
 
 🔹 Inteligencia Artificial avanzada  
-🔹 Automatización de procesos empresariales  
-🔹 Desarrollo web escalable con backend robusto  
+🔹 Automatización de procesos de pequeños negocios y empresariales
 🔹 Visión por computadora aplicada  
 🔹 Integraciones low-code para eficiencia total
+🔹 Desarrollo web escalable con backend robusto  
+🔹 Desarrollo Software con ia integrada  
 
 ---
 
@@ -53,16 +54,6 @@
 
 ---
 
-## 📂 Proyectos Destacados
-
-| 🚀 Proyecto             | 💡 Descripción                                                      |
-|------------------------|---------------------------------------------------------------------|
-| 🌐 **Web Arca Oexdi**   | Sitio institucional con Next.js + Tailwind + FastAPI               |
-| 🤖 **Arca AI Agent**    | Agente autónomo de automatización usando Python + n8n              |
-| 👁️ **Visión Oexdi**     | Detección visual con PyTorch + Keras + Roboflow                    |
-
----
-
 ## 🙌 ¿Por qué seguirnos?
 
 - ✅ Código real y funcional  
@@ -83,22 +74,13 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arcaoexdi&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcaoexdi&layout=compact&theme=radical" height="165">
-</p>
-
----
-
 ## 📫 Contacto
 
 > ¿Quieres colaborar, automatizar tu negocio o hacer algo increíble con IA?
 
 📧 **Email:** arca.oexdi@gmail.com  
-🌐 **Web (próximamente):** www.arcaoexdi.com
-
+📷 **Instagram:** arca_oexdi
+📲 **Cel:** +57 3133950857
 ---
 
 ## 🧠 Frase que nos inspira
@@ -107,9 +89,10 @@
 > — **Arca Oexdi**
 
 ---
+## 📊 Estadísticas de GitHub
 
-## 🛠️ Bonus
-
-🎁 Genera tu propio README con [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arcaoexdi&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcaoexdi&layout=compact&theme=radical" height="165">
+</p>
 ---
