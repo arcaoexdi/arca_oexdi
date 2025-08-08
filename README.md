@@ -14,17 +14,17 @@
 
 **Arca Oexdi** es una marca pionera en crear soluciones que combinan:
 
-🔹 Inteligencia Artificial avanzada  
+###🔹Inteligencia Artificial avanzada  
 -
-🔹 Automatización de procesos de pequeños negocios y empresariales
+###🔹 Automatización de procesos de pequeños negocios y empresariales
 -
-🔹 Visión por computadora aplicada  
+###🔹 Visión por computadora aplicada  
 -
-🔹 Integraciones low-code para eficiencia total
+###🔹 Integraciones low-code para eficiencia total
 -
-🔹 Desarrollo web escalable con backend robusto  
+###🔹 Desarrollo web escalable con backend robusto  
 -
-🔹 Desarrollo Software con ia integrada  
+###🔹 Desarrollo Software con ia integrada  
 
 ---
 
